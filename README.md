@@ -2,7 +2,7 @@ I've created this project to show one technique that I developed to replace the 
 
 This technique do not needs any third party module, just React-Native code, but i use the react-navigation módulo to show that`s works globaly, and may be used to pass props betwen screens if your project is using react-navigations 
 
-To get start read the GetStartGuide.md file.
+To get start read the  [a GetStartGuide.md](GetStartGuide.md) file.
 
 ![](demo.gif)
 
