@@ -4,6 +4,7 @@ This technique do not needs any third party module, just React-Native code, but 
 
 To get start read the GetStartGuide.md file.
 
+![](demo.gif)
 
 I hope you guys enjoy.
 Fell free to send suggest.
