@@ -9,12 +9,19 @@ To this project i use a obj with 3 levels, but it's works with any kind obj
 This is the sample obj
 
 export const gState = {
+
     Counters:{
+    
         secondLevelCounter:0,
+        
         SecondLevelCounters:{
+        
             thirdLevelCounter:0
+            
         }
+        
     },
+    
     firstLevelCounter:0,
 }
 
