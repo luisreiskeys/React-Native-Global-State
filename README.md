@@ -4,6 +4,21 @@ This technique do not needs any third party module, just React-Native code, but 
 
 To get start read the  [a GetStartGuide.md](GetStartGuide.md) file.
 
+To this project i use a obj with 3 levels, but it's works with any kind obj
+
+This is the sample obj
+
+export const gState = {
+    Counters:{
+        secondLevelCounter:0,
+        SecondLevelCounters:{
+            thirdLevelCounter:0
+        }
+    },
+    firstLevelCounter:0,
+}
+
+
 ![](demo.gif)
 
 I hope you guys enjoy.
