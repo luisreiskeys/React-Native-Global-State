@@ -8,7 +8,7 @@ To get start read the  [a GetStartGuide.md](GetStartGuide.md) file.
 
 To this project i use a obj with 3 levels, but it's works with any kind obj
 
-This is the sample obj
+This is the sample obj used for this tutorial
 
 export const gState = {
 
